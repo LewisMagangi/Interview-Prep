@@ -41,22 +41,22 @@ Codewars
 
 ### Basic Problems
 
-- [ ] Calculate the Sum of Numbers from 1 to N using Recursion (Basic) [HackerRank]
-- [ ] Print the Fibonacci Series up to N Terms using Recursion (Basic) [HackerRank]
-- [ ] Print the Elements of an Array using Recursion (Basic) [HackerRank]
-- [ ] Count the Digits of a Given Number using Recursion (Basic) [HackerRank]
-- [ ] Find the Sum of Digits of a Number using Recursion (Basic) [HackerRank]
-- [ ] Find the GCD of Two Numbers using Recursion (Basic) [HackerRank]
-- [ ] Find the Largest Element of an Array using Recursion (Basic) [HackerRank]
-- [ ] Reverse a String using Recursion (Basic) [HackerRank]
-- [ ] Find the Factorial of a Number using Recursion (Basic) [HackerRank]
-- [ ] Convert a Decimal Number to Binary using Recursion (Basic) [HackerRank]
-- [ ] Check if a Number is a Prime Number using Recursion (Basic) [HackerRank]
-- [ ] Print Even or Odd Numbers in a Given Range using Recursion (Basic) [HackerRank]
-- [ ] Multiply Two Matrices using Recursion (Basic) [HackerRank]
-- [ ] Check if a Given String is a Palindrome using Recursion (Basic) [HackerRank]
-- [ ] Copy One String to Another using Recursion (Basic) [HackerRank]
-- [ ] Check if an Array is Sorted using Recursion (Basic) [HackerRank]
+- [ ] Calculate the Sum of Numbers from 1 to N using Recursion (Basic) [NA]
+- [ ] Print the Fibonacci Series up to N Terms using Recursion (Basic) [NA]
+- [ ] Print the Elements of an Array using Recursion (Basic) [NA]
+- [ ] Count the Digits of a Given Number using Recursion (Basic) [NA]
+- [ ] Find the Sum of Digits of a Number using Recursion (Basic) [NA]
+- [ ] Find the GCD of Two Numbers using Recursion (Basic) [NA]
+- [ ] Find the Largest Element of an Array using Recursion (Basic) [NA]
+- [ ] Reverse a String using Recursion (Basic) [NA]
+- [ ] Find the Factorial of a Number using Recursion (Basic) [NA]
+- [ ] Convert a Decimal Number to Binary using Recursion (Basic) [NA]
+- [ ] Check if a Number is a Prime Number using Recursion (Basic) [NA]
+- [ ] Print Even or Odd Numbers in a Given Range using Recursion (Basic) [NA]
+- [ ] Multiply Two Matrices using Recursion (Basic) [NA]
+- [ ] Check if a Given String is a Palindrome using Recursion (Basic) [NA]
+- [ ] Copy One String to Another using Recursion (Basic) [NA]
+- [ ] Check if an Array is Sorted using Recursion (Basic) [NA]
 
 ---
 
